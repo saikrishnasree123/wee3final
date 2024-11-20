@@ -1,3 +1,4 @@
+import java.util.*;
 public class prime{    
  public static void main(String args[]){    
   int i,m=0,flag=0;      
@@ -16,4 +17,4 @@ public class prime{
    if(flag==0)  { System.out.println(n+" is prime number"); }  
   }//end of else  
 }    
-}   
+} //I made changes  
